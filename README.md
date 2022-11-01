@@ -3,8 +3,8 @@
 
 > This a simple project where the idea is you can get data about coins BTC in real time. I will create a interface with the Dear PyGui. 
 
->> ![Dear PyGui](https://github.com/hoffstadt/DearPyGui)
->> ![Requests](https://github.com/psf/requests) 
+>> ![DearPyGui] https://github.com/hoffstadt/DearPyGui
+>> ![Requests] https://github.com/psf/requests 
 
 # Seconde update 
 <sub> version 0.2 - 11/1/2022 <sub>
