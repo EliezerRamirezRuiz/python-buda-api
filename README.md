@@ -3,8 +3,18 @@
 
 > This a simple project where the idea is you can get data about coins BTC in real time. I will create a interface with the Dear PyGui. 
 
-# First steps
-<sub>it's recommended.<sub>
+>> ![Dear PyGui](https://github.com/hoffstadt/DearPyGui)
+>> ![Requests](https://github.com/psf/requests) 
+
+# Seconde update 
+<sub> version 0.2 - 11/1/2022 <sub>
+
+> well I have uploaded second update with little changes like now ito the repo there is an executable app with the api from buda that brings data about the bitcoins
+> I hope to bring good results in the future with the advanced.
+
+
+# First update
+<sub> version 0.1 - 10/30/2022 <sub>
 
 ```python
    python3 -m pip install --user virtualenv
@@ -31,4 +41,3 @@
 <sub>remember the path before requirements.txt if there is one<sub>
 
 
-> Thanks very much and if there is a problem I will try to solve
